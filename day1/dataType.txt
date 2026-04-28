@@ -1,0 +1,45 @@
+type                        example
+
+string                       "hello"
+Integer                      24
+Float                        99.99
+Boolean                      True/False
+list                         [1,2,3,4,5]
+tuple                        (1,2,3,4,5)
+dict                         {"name":"Pradeep","age":24}
+set                          {1,2,3,4,5}
+
+
+----------------------------
+1. Add items in list
+    "append()"
+    "insert()"
+    "extend()"
+
+2. Remove items from list
+    "remove()"
+    "pop()"
+    "del"
+
+3. Update items in list
+    "update()"
+    "[]"
+
+4. other list methods
+    "sort()"
+    "reverse()"
+    "len()"
+    "max()"
+    "min()"
+    "sum()"
+
+---------------------------------------------
+String slicing :
+"""stringname[start:end]"""
+
+String methods :
+"len()"
+"upper()"
+"lower()"
+"strip()"
+

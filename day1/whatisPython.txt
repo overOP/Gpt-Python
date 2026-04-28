@@ -1,0 +1,5 @@
+python is a programming language.
+
+* Easy to read
+* Used in web , Ai , automate task , data etc.
+* One of the best language for beginners.
