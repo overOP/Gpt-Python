@@ -1,0 +1,9 @@
+a = 10
+b = 5
+
+print(a==b)   # comparison operator
+print(a!=b)   # not equal to
+print(a>b)    # greater than
+print(a<b)    # less than
+print(a>=b)   # greater than or equal to
+print(a<=b)   # less than or equal to
